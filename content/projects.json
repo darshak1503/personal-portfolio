@@ -1,0 +1,156 @@
+{
+  "projects": [
+    {
+      "id": "mcp-onboarding-hub",
+      "slug": "mcp-onboarding-hub",
+      "title": "MCP Onboarding & Gateway UX",
+      "shortDescription": "End-to-end MCP onboarding from Figma designs through gateway-integrated configuration flows.",
+      "description": "Designed and implemented MCP onboarding experiences including responsive UI, OpenAPI-guided validation, SAFE-related integrations, and gateway-side configuration—streamlining how teams adopt and configure MCP integrations.",
+      "problem": "Complex MCP setup created friction for integrators and required consistent guidance across UI and gateway layers.",
+      "solution": "Translated Figma designs into production UI with structured validation, error handling, and gateway-aligned API integrations.",
+      "impact": "Reduced onboarding ambiguity and improved consistency across integration workflows.",
+      "technologies": ["React", "TypeScript", "OpenAPI", "REST APIs"],
+      "featured": true,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-confidential-2026"]
+    },
+    {
+      "id": "finance-transformation",
+      "slug": "finance-transformation",
+      "title": "Finance Transformation Platform",
+      "shortDescription": "Enterprise Angular application with measurable UI performance improvements.",
+      "description": "Developed and optimized a finance transformation suite with attention to rendering efficiency, reusable components, and REST-driven workflows for financial operations teams.",
+      "problem": "Heavy enterprise UI struggled with rendering efficiency as data volume grew.",
+      "solution": "Angular performance optimizations, efficient data binding patterns, and component reuse.",
+      "impact": "Approximately 30% improvement in frontend UI performance and rendering efficiency.",
+      "technologies": ["Angular", "TypeScript", "REST APIs"],
+      "featured": true,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-qx-global-2024"]
+    },
+    {
+      "id": "bank-reconciliation",
+      "slug": "bank-reconciliation",
+      "title": "Bank Reconciliation Workflows",
+      "shortDescription": "Operational UI for reconciliation with integrated financial APIs.",
+      "description": "Built reconciliation workflows connecting REST APIs to support data processing, reconciliation operations, and efficient analyst/user flows.",
+      "problem": "Manual reconciliation processes needed structured, reliable digital workflows.",
+      "solution": "Workflow-centric Angular UI with API-backed reconciliation states and validation.",
+      "impact": "Streamlined reconciliation operations and improved data-processing efficiency.",
+      "technologies": ["Angular", "REST APIs"],
+      "featured": false,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-qx-global-2024"]
+    },
+    {
+      "id": "talentpool",
+      "slug": "talentpool",
+      "title": "TalentPool Module",
+      "shortDescription": "End-to-end talent onboarding and availability management.",
+      "description": "Delivered TalentPool across frontend and backend: employee/SME onboarding, client engagement tracking, and assignment, leave, and availability management.",
+      "problem": "Talent operations needed a single system for profiles, assignments, and availability.",
+      "solution": "Unified module spanning onboarding, engagement, and stateful assignment tracking.",
+      "impact": "Improved visibility into talent availability and client engagement.",
+      "technologies": ["Angular", "Java", "REST APIs"],
+      "featured": true,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-qx-global-2024"]
+    },
+    {
+      "id": "spendchecks",
+      "slug": "spendchecks",
+      "title": "SpendChecks Mobile",
+      "shortDescription": "Ionic expense app with approval workflows for iOS and Android.",
+      "description": "SpendChecks enables users to add, approve, and reject expenses with real-time status tracking, secure data handling, and reusable UI patterns.",
+      "problem": "Field teams needed mobile-first expense capture and approvals.",
+      "solution": "Cross-platform Ionic application with approval states and API-backed persistence.",
+      "impact": "Faster expense processing with clear approval visibility.",
+      "technologies": ["Ionic", "Angular", "REST APIs"],
+      "featured": true,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-qx-global-2024"]
+    },
+    {
+      "id": "remittance-ekyc",
+      "slug": "remittance-ekyc",
+      "title": "Remittance, Prepaid & eKYC Suite",
+      "shortDescription": "Modular Angular SPA for financial product lines.",
+      "description": "Scalable Angular SPA with responsive UI supporting international remittance, prepaid card, and eKYC service flows with REST integrations.",
+      "problem": "Multiple financial products required a unified yet modular customer experience.",
+      "solution": "Modular SPA architecture with reusable components and API-driven screens.",
+      "impact": "Maintainable multi-product frontend with consistent UX patterns.",
+      "technologies": ["Angular", "REST APIs"],
+      "featured": false,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-digipay-2023"]
+    },
+    {
+      "id": "cashup-agent",
+      "slug": "cashup-agent",
+      "title": "Cashup Agent Portal",
+      "shortDescription": "Commission automation for agent operations.",
+      "description": "Led development of the Cashup Agent Portal with automated commission calculations integrated into agent workflows.",
+      "problem": "Manual commission calculations introduced errors and slowed agents.",
+      "solution": "Automated calculation engine within agent-facing portal workflows.",
+      "impact": "Approximately 20% reduction in commission calculation errors.",
+      "technologies": ["Angular", "REST APIs"],
+      "featured": false,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-digipay-2023"]
+    },
+    {
+      "id": "nfc-payment-portal",
+      "slug": "nfc-payment-portal",
+      "title": "NFC Payment Web Portal",
+      "shortDescription": "Web-based NFC payments without a dedicated mobile app.",
+      "description": "Web portal enabling Shukur users to complete NFC payment transactions through the browser experience.",
+      "problem": "Users needed NFC payments without installing another mobile application.",
+      "solution": "Web-based payment portal with REST integrations and responsive UX.",
+      "impact": "Expanded payment access through browser-based flows.",
+      "technologies": ["Angular", "REST APIs"],
+      "featured": false,
+      "images": [],
+      "links": {
+        "live": null,
+        "github": null,
+        "caseStudy": true
+      },
+      "resumeRefs": ["exp-digipay-2023"]
+    }
+  ]
+}

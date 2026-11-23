@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "lastSyncedAt": "2026-11-23T08:26:38.165Z",
+    "sourceResume": "public/resume/current-resume.pdf",
+    "resumeHash": "b36507a8318c4bcab6cbadc6f930170b440832788a8faba567e5ecf5755e160f"
+  },
+  "name": "Darshak Sondagar",
+  "title": "Senior Software Engineer",
+  "headline": "Building scalable enterprise web experiences with Angular, React & TypeScript",
+  "summary": "Senior Software Engineer with 5+ years of experience designing, developing, modernizing, and optimizing web applications\nusing Angular, React.js, TypeScript, and JavaScript. Strong expertise in building scalable Single Page Applications (SPAs),\nreusable UI components, REST API integrations, responsive web interfaces, and frontend performance optimization. Hands-on\nexperience with RxJS, NgRx, Redux, Angular Material, Ionic, and enterprise application development across finance\ntransformation, bank reconciliation, payments, international remittance, prepaid cards, eKYC, expense management, and\ntalent management solutions. Experienced in end-to-end feature delivery, Agile collaboration, application modernization,\nperformance improvement, and AI-assisted software development.",
+  "yearsExperience": 5,
+  "specialties": [
+    "Angular 13+",
+    "React.js",
+    "TypeScript",
+    "Enterprise SPAs",
+    "REST API integration",
+    "Responsive UI"
+  ],
+  "valueProposition": "I help teams ship polished, high-performance frontends for complex products—from finance and payments to AI gateway experiences—with maintainable architecture and measurable UX impact.",
+  "contact": {
+    "email": "darshaksondagar48144@gmail.com",
+    "phone": "+91-95125-58153"
+  },
+  "skillCategories": [
+    {
+      "id": "frontend",
+      "label": "Frontend",
+      "skills": [
+        "Angular 13+",
+        "React.js",
+        "TypeScript",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Ionic"
+      ]
+    },
+    {
+      "id": "ui-styling",
+      "label": "UI / Styling",
+      "skills": [
+        "Angular Material",
+        "Bootstrap",
+        "Responsive Web Design"
+      ]
+    },
+    {
+      "id": "state-management",
+      "label": "State Management",
+      "skills": [
+        "RxJS",
+        "NgRx",
+        "Redux"
+      ]
+    },
+    {
+      "id": "apis-backend",
+      "label": "APIs / Backend",
+      "skills": [
+        "REST API Integration",
+        "JSON",
+        ".NET Web API (Basic)"
+      ]
+    },
+    {
+      "id": "cloud-monitoring",
+      "label": "Cloud / Monitoring",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Datadog"
+      ]
+    },
+    {
+      "id": "version-control",
+      "label": "Version Control",
+      "skills": [
+        "Git",
+        "GitHub",
+        "Bitbucket"
+      ]
+    },
+    {
+      "id": "ai-development-tools",
+      "label": "AI Development Tools",
+      "skills": [
+        "Codex",
+        "Claude",
+        "GitHub Copilot",
+        "Glean Agents"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-confidential-2026",
+      "company": "Confidential",
+      "title": "Senior Software Engineer",
+      "location": "Remote, India",
+      "startDate": "2026-09",
+      "endDate": null,
+      "current": true,
+      "highlights": [
+        "Worked on HubGPT UI and gateway/API enhancements, including deep-linking, reasoning behavior, Luminary Card UI with Glean Agent integration, and multi-Slack and embedded agent onboarding flows. Implemented admin agent-view notifications across both frontend and gateway layers, along with platform improvements focused on agent onboarding, integrations, navigation, and overall user experience.",
+        "Designed and developed the MCP onboarding flow, translating Figma designs into responsive UI and implementing end-to-end API integrations. Worked on SAFE-related integrations, OpenAPI guidance, validation, and error handling, along with frontend and gateway-side enhancements to streamline MCP configuration, onboarding, and integration workflows."
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "REST APIs",
+        "OpenAPI",
+        "Glean Agents"
+      ]
+    },
+    {
+      "id": "exp-qx-global-2024",
+      "company": "QX Global Group",
+      "title": "Software Engineer",
+      "location": "Remote, India",
+      "startDate": "2024-10",
+      "endDate": "2026-08",
+      "current": false,
+      "highlights": [
+        "Developed and optimized an enterprise Finance Transformation application using Angular, improving frontend UI performance and rendering efficiency by approximately 30%.",
+        "Developed Bank Reconciliation workflows and integrated REST APIs to support financial data processing, reconciliation operations, and efficient user workflows.",
+        "Built the TalentPool module end-to-end across frontend and backend to onboard employee and SME profiles, track client engagement, and manage assignment, leave, and availability states.",
+        "Developed SpendChecks, an Ionic mobile application for Android and iOS, enabling users to add, approve, and reject expenses with real-time status tracking.",
+        "Implemented secure data handling, approval workflows, reusable UI components, and API integrations to improve usability and streamline expense-processing operations.",
+        "Worked on API integration and database queries to ensure smooth communication between frontend(Angular 15) and backend(Java)."
+      ],
+      "technologies": [
+        "Angular 15",
+        "Ionic",
+        "Java",
+        "REST APIs"
+      ]
+    },
+    {
+      "id": "exp-digipay-2023",
+      "company": "Digipay Guru",
+      "title": "Software Engineer",
+      "location": "Ahmedabad, Gujarat",
+      "startDate": "2023-02",
+      "endDate": "2024-09",
+      "current": false,
+      "highlights": [
+        "Developed a scalable and modular Angular Single Page Application (SPA) with responsive UI for International Remittance, Prepaid Card, and eKYC services.",
+        "Led development of the Cashup Agent Portal, automating commission calculations and reducing calculation errors by approximately 20%.",
+        "Built a web-based NFC payment portal for Shukur, enabling users to complete payment transactions without requiring a dedicated mobile application.",
+        "Integrated REST APIs and developed reusable frontend components to support maintainable, scalable, and responsive product development."
+      ],
+      "technologies": [
+        "Angular",
+        "REST APIs",
+        "Responsive UI"
+      ]
+    },
+    {
+      "id": "exp-jamsfy-2022",
+      "company": "Jamsfy Technologies Private Limited",
+      "title": "Associate Front-end Engineer",
+      "location": "Mumbai, Maharashtra",
+      "startDate": "2022-07",
+      "endDate": "2022-12",
+      "current": false,
+      "highlights": [
+        "Developed secure and interactive web applications with responsive user interfaces and modern frontend development practices.",
+        "Contributed to frontend architecture and application development with a focus on scalability, maintainability, and website performance."
+      ],
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": "exp-madvise-2021",
+      "company": "Madvise Infotech",
+      "title": "Front-end Engineer",
+      "location": "Surat, Gujarat",
+      "startDate": "2021-07",
+      "endDate": "2022-06",
+      "current": false,
+      "highlights": [
+        "Learned about teamwork, new technologies, and building creative web pages.",
+        "Leading multidisciplinary teams building software end-to-end Front end development using Angular."
+      ],
+      "technologies": [
+        "Angular"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-charusat",
+      "institution": "Charotar University of Science and Technology (CHARUSAT)",
+      "degree": "Bachelor of Technology — Information Technology",
+      "location": "Anand, Gujarat",
+      "startDate": "2019",
+      "endDate": "2023"
+    }
+  ],
+  "certifications": [],
+  "achievements": []
+}

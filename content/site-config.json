@@ -1,0 +1,79 @@
+{
+  "siteName": "Darshak Sondagar — Portfolio",
+  "siteUrl": "https://darshaksondagar.dev",
+  "description": "Senior Software Engineer specializing in Angular, React, TypeScript, and enterprise web applications. Building scalable SPAs, API integrations, and polished user experiences.",
+  "keywords": [
+    "Senior Software Engineer",
+    "Angular",
+    "React",
+    "TypeScript",
+    "Frontend Developer",
+    "Enterprise Web Applications"
+  ],
+  "ogImage": "/images/og-preview.png",
+  "contact": {
+    "email": "darshaksondagar48144@gmail.com",
+    "phone": "+91-95125-58153",
+    "linkedin": "",
+    "github": "",
+    "location": "India"
+  },
+  "resumePath": "/resume/current-resume.pdf",
+  "services": [
+    {
+      "id": "enterprise-frontend",
+      "title": "Enterprise Frontend Engineering",
+      "description": "Design and deliver scalable SPAs with Angular and React, reusable component systems, and performance-focused architecture.",
+      "capabilities": [
+        "Angular & React SPAs",
+        "Component libraries",
+        "State management (NgRx, Redux, RxJS)",
+        "Performance optimization"
+      ],
+      "value": "Faster delivery of reliable, maintainable interfaces for complex business domains."
+    },
+    {
+      "id": "api-integration",
+      "title": "API Integration & Gateway UX",
+      "description": "End-to-end REST integrations, gateway-aligned UI flows, validation, and error handling for production systems.",
+      "capabilities": [
+        "REST API integration",
+        "OpenAPI-guided flows",
+        "Admin & onboarding experiences",
+        "Cross-layer feature delivery"
+      ],
+      "value": "Smooth front-to-back user journeys with fewer integration defects."
+    },
+    {
+      "id": "fintech-ui",
+      "title": "FinTech & Operations UI",
+      "description": "Interfaces for reconciliation, payments, remittance, prepaid cards, eKYC, and expense workflows.",
+      "capabilities": [
+        "Bank reconciliation UIs",
+        "Payment & remittance portals",
+        "Approval workflows",
+        "Ionic mobile experiences"
+      ],
+      "value": "Domain-aware UI that supports compliance-minded, operationally critical workflows."
+    },
+    {
+      "id": "modernization",
+      "title": "Application Modernization",
+      "description": "Upgrade legacy frontends, improve rendering performance, and adopt modern tooling with AI-assisted development.",
+      "capabilities": [
+        "UI performance tuning",
+        "Responsive redesigns",
+        "Figma-to-implementation",
+        "Agile collaboration"
+      ],
+      "value": "Measurable UX and performance gains without disrupting delivery cadence."
+    }
+  ],
+  "theme": {
+    "primaryBg": "#070B14",
+    "secondaryBg": "#0D1424",
+    "accentBlue": "#3B82F6",
+    "accentViolet": "#8B5CF6",
+    "accentCyan": "#22D3EE"
+  }
+}
